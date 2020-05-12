@@ -8,10 +8,13 @@
         text-align: center;
 }
 
-.calculator__input{
+.calculator__screen{
+    font-size: 16px;;
     width: 85%;
     height: 30px;
     margin-bottom: 30px;
+    background: #fff;
+    text-align: right;
 }
 
 .calculator{
