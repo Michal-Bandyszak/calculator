@@ -58,11 +58,7 @@ let handleOperator = (nextOperator) => {
         calculateResult(firstNumber, secondNumber)
       
     }
-    //pierwszy kork --> wyczyścić inputa
-    //drugi krok pobrać dispaly value do zmiennej secondNum
-    //trzeci krok w zależoności od value operatora wykonać konkretne działanie.
-    
-    }
+}
 
 const keys = document.querySelector(".calculator__keys");
 
